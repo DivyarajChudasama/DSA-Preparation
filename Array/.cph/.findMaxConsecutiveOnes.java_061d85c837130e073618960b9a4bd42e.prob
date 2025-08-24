@@ -1,1 +1,0 @@
-{"name":"Local: findMaxConsecutiveOnes","url":"e:\\DSA Preparation\\DSA-Preparation\\Array\\findMaxConsecutiveOnes.java","tests":[{"id":1756050266033,"input":"6\n1 1 0 1 1 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA Preparation\\DSA-Preparation\\Array\\findMaxConsecutiveOnes.java","group":"local","local":true}
